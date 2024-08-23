@@ -1,0 +1,89 @@
+Software Engineering Day1 Assignment
+
+#Part 1: Introduction to Software Engineering
+
+1. Explain what software engineering is and discuss its importance in the technology industry.
+
+Software engineering is a branch of computer science that deals with the design,development,testing and maintenance of software applications.
+The importance of software engineering in the technology space is for design and development of software applications and systems,to evaluate and test new software applications and it enables innovation.
+
+2. Identify and describe at least three key milestones in the evolution of software engineering.
+
+- The development of programming langauges : Fortran and COBOL are two of the earliest languages and they gave a higher level of abstration and made programming more accessible to a broader audience.
+- The advant of structured programming : Focuses on clear and concise code.
+- The rise of agile methodologies : agile methodologies came about as an alternative to the waterfall model emphasising flexibility,collaboration and iterative development.
+
+3. List and briefly explain the phases of the Software Development Life Cycle.
+
+Stage-1: Planning and Requirement Analysis
+Gathering and documenting user needs and system requirements
+
+Stage-2: Defining Requirements
+All the requirements for the target software are specified. These requirements get approval from customers, market analysts, and stakeholders.
+
+Stage-3: Designing Architecture
+Creating high-level and detailed designs of the software architecture and user interface.
+
+Stage-4: Developing Product
+Writing code and building the software according to the design specifications
+
+Stage-5: Product Testing and Integration
+After the development of the product, testing of the software is necessary to ensure its smooth execution. Although, minimal testing is conducted at every stage of SDLC. Therefore, at this stage, all the probable flaws are tracked, fixed, and retested.
+
+Stage-6: Deployment and Maintenance of Products
+Releasing the software to users or customers and providing ongoing support, updates, and enhancements to the software after deployment.
+
+4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
+- Waterfall Model : It has a sequential approach
+  : It flows downward like a waterfall
+  : It is easy to track progress,identify risks and manage project budgets.
+
+Example : The waterfall model is best for projects that have clearly specified requirements, limited complexity and a definite timeline.
+
+- Agile Methodologies : It has a iterative and incremental approach
+  : It responds to change
+  : It is flexible
+
+Example : Agile methodologies can be used when dealing with teams who nedd to collaborate intensively and teams that are located in different locations.
+
+5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
+- Software Developer : Software Developer is responsible for writing code and implementing software solutions.
+
+- Quality Assurance Engineer : Ensures software quality by designing and executing test plans.
+
+- Project Manager : A project manager oversees the planning, execution, and delivery of software projects.
+
+6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
+- Integrated Development Environments (IDEs): Software suites that provide comprehensive tools for writing, debugging, and testing code (e.g., Visual Studio).
+
+- Version Control Systems (VCS): Software tools for tracking changes to source code and coordinating work among team members (e.g., Git).
+
+7. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
+- Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
+- Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
+- Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintenance costs.
+
+Strategies for Overcoming Challenges: Strategies for overcoming challenges include effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
+
+8. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
+- Unit Testing: Testing individual components or modules of software.
+- Integration Testing: Testing interactions between different components or subsystems.
+- System Testing: Testing the entire software system as a whole.
+- Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.
+
+#Part 2: Introduction to AI and Prompt Engineering
+
+1. Define prompt engineering and discuss its importance in interacting with AI models.
+
+Prompt engineering is the process of giving clear and concise intrustion to an AI model and receiving a response from the AI.
+Interacting with AI helps to improve its accuracy and efficiency to produce better outcomes.
+
+2. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+A vague prompt might be like "What is the weather like?"
+A better prompt might be like "What is the weather like in Johannesburg today in degrees celcius?"
